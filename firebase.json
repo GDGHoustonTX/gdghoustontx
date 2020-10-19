@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"myaurapp",
+    "site":"gdghouston-tx",
     "public": "dist",
     "rewrites": [ {
         "source": "**",
